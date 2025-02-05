@@ -28,6 +28,20 @@ An experienced Automation Test Engineer with **2.10 years** of experience in man
 - Coordinated with cross-functional teams, including developers and Test Leads, to resolve critical issues and ensure seamless project delivery.
 - Built domain expertise in diverse industries like **Social Media**, **Health Care**, **POS Systems**, and **Financial Applications**.
 
+**Project Experience**
+➢ **Khulke** – Social media platform for hosting roundtable discussions, content creation, and private meetings. Ensured seamless
+UI/UX, API stability, and performance optimization.
+• **Tools Used:** Selenium (Java), Appium, Postman, JMeter
+➢ **CureBay** – Healthcare platform for booking tests, managing health records, and emergency services. Automated end-to-end
+workflows for enhanced reliability.
+• **Tools Used:** Playwright (Java), Appium, Postman, JMeter
+➢ **Savic –** POS system for convenience store vendors, supporting barcode scanning, refunds, and item exchanges. Validated
+transactions for accuracy and compliance.
+• **Tools Used:** Selenium (Java), Postman, JMeter
+➢ **Wylth** – Financial web application for car, home, and SME loan processing. Ensured smooth loan applications and secure user
+data handling.
+• **Tools Used:** Selenium (Java)
+
 ## Technical Skills
 
 - **Core Java Development Skills**
