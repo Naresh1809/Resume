@@ -11,7 +11,6 @@ An experienced Automation Test Engineer with **3+ years** of experience in manua
 ## Experience
 
 ### Automation Test Engineer at **Qo-Box Chennai**  
-**03/2022 - 12/2024**
 
 - Executed automation testing for end-to-end Software checks in **Web**, **Mobile**, **API**, and **Performance testing**.
 - Performed various testing methodologies, including unit, smoke, integration, regression, functional, and non-functional tests, ensuring comprehensive application stability and system reliability.
