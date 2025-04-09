@@ -29,10 +29,10 @@ An experienced Automation Test Engineer with **3+ years** of experience in manua
 - Built domain expertise in diverse industries like **Social Media**, **Health Care**, **POS Systems**, and **Financial Applications**.
 
 **Freelance Experience:**
-• Worked as a freelancer in Performance Testing and Automation Testing.
-• Executed various projects focusing on load, and scalability testing using JMeter and Grafana.
-• Automated test scenarios using Selenium and Playwright to enhance efficiency and coverage.
-• Provided test strategy and consulting for clients to optimize their testing frameworks.
+- Worked as a freelancer in Performance Testing and Automation Testing.
+- Executed various projects focusing on load, and scalability testing using JMeter and Grafana.
+- Automated test scenarios using Selenium and Playwright to enhance efficiency and coverage.
+- Provided test strategy and consulting for clients to optimize their testing frameworks.
 
 **Project Experience**
 - **Khulke** – Social media platform for hosting roundtable discussions, content creation, and private meetings. Ensured seamless
