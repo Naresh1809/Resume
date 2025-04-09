@@ -6,7 +6,7 @@
 
 ## Professional Summary
 
-An experienced Automation Test Engineer with **2.10 years** of experience in manual and automated testing for Web, Mobile, and API. Skilled in performance testing and test script development, as well as utilizing tools like **Selenium**, **Playwright**, **Postman**, and **JMeter**. Strong understanding of **SDLC** and **STLC** processes, with a commitment to delivering bug-free, user-friendly software.
+An experienced Automation Test Engineer with **3+ years** of experience in manual and automated testing for Web, Mobile, and API. Skilled in performance testing and test script development, as well as utilizing tools like **Selenium**, **Playwright**, **Postman**, and **JMeter**. Strong understanding of **SDLC** and **STLC** processes, with a commitment to delivering bug-free, user-friendly software.
 
 ## Experience
 
@@ -27,6 +27,12 @@ An experienced Automation Test Engineer with **2.10 years** of experience in man
 - Developed and implemented reusable utility methods to enhance automation frameworks and testing efficiency.
 - Coordinated with cross-functional teams, including developers and Test Leads, to resolve critical issues and ensure seamless project delivery.
 - Built domain expertise in diverse industries like **Social Media**, **Health Care**, **POS Systems**, and **Financial Applications**.
+
+**Freelance Experience:**
+• Worked as a freelancer in Performance Testing and Automation Testing.
+• Executed various projects focusing on load, and scalability testing using JMeter and Grafana.
+• Automated test scenarios using Selenium and Playwright to enhance efficiency and coverage.
+• Provided test strategy and consulting for clients to optimize their testing frameworks.
 
 **Project Experience**
 - **Khulke** – Social media platform for hosting roundtable discussions, content creation, and private meetings. Ensured seamless
